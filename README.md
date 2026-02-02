@@ -1,4 +1,4 @@
- # Multiply Perturbed Response to Disclose Allosteric Control of Conformational Change
+# Multiply Perturbed Response: A Protocol to Identify Cooperative Allosteric Residue Combinations Driving Protein Conformational Transitions
 This repository contains the Jupyter notebook and supporting code used to compute Multiply Perturbed Response (MPR) solutions for a known protein conformational transition (e.g. apo to holo).
 
 

@@ -1,0 +1,10 @@
+# Element 1
+.color blue
+.sphere 37.093 38.800 9.895 1.5
+.color red
+.arrow 37.093 38.800 9.895 47.787 46.113 14.140 0.2
+# Element 2
+.color blue
+.sphere 7.789 27.104 1.601 1.5
+.color red
+.arrow 7.789 27.104 1.601 7.366 15.695 5.653 0.2
